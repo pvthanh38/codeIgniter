@@ -44,7 +44,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">thanh chinh sua Laravel 5</div>
+                <div class="title">kakak ta chinh sua do Laravel 5</div>
                 <div class="quote">{{ Inspiring::quote() }}</div>
             </div>
         </div>
