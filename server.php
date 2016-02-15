@@ -1,6 +1,6 @@
 <?php
 
-/***
+/****
  * Laravel - A PHP Framework For Web Artisans
  *
  * @package  Laravel
@@ -19,3 +19,4 @@ if ($uri !== '/' && file_exists(__DIR__.'/public'.$uri)) {
 }
 
 require_once __DIR__.'/public/index.php';
+/****
